@@ -1,0 +1,7 @@
+Tests.pdf
+*.json
+
+.DS_Store
+
+open-webui/data/
+open-webui/*.env
